@@ -49,6 +49,14 @@
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nimanthaDil&theme=algolia"/>
 </div>
 
+## 🏆 Github Profile Trophy
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=nimanthaDil&column=8&theme=darkhub"/>
+  </a>
+ </p>
+
 
 ## 🌐 Connect With Me
 
@@ -69,7 +77,6 @@
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
-
 
 ## 📈 Activity Graph
 
